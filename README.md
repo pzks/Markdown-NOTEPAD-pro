@@ -1,37 +1,17 @@
 # Markdown NOTEPAD pro
 
 #### 介绍
-简单的易语言写的markdown编辑器
+简单的易语言写的markdown编辑器，Markdown NOTEPAD pro使用了著名的开源项目Editor.md，感谢Editor.md的作者，本程序使用了一些来自互联网的免费，开源作品及其资源，其版权归其作者所有。本软件是一个免费软件，感谢大家的支持和使用。
+ **版本** 
+Editor.md v1.5.0
+ **本计算机程序受国际公约的保护，禁止未经授权擅自作为个人商业用途，或转售他人。** 
 
 #### 软件架构
-软件架构说明
+windowns平台
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 软件图集
+![软件图集](https://images.gitee.com/uploads/images/2020/0122/214528_4a624394_4803184.jpeg "download.jpg")
+![软件图集](https://images.gitee.com/uploads/images/2020/0122/214205_d3c14add_4803184.png "屏幕截图.png")
+![软件图集](https://images.gitee.com/uploads/images/2020/0122/214242_80013deb_4803184.png "屏幕截图.png")
+![软件图集](https://images.gitee.com/uploads/images/2020/0122/214424_a6be6f0c_4803184.png "logo.png")
+![软件图集](https://images.gitee.com/uploads/images/2020/0122/214458_44694373_4803184.png "屏幕截图.png")
