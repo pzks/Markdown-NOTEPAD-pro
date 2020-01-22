@@ -1,7 +1,7 @@
 # Markdown NOTEPAD pro
 
 #### 介绍
-简单的易语言写的markdown编辑器，Markdown NOTEPAD pro使用了著名的开源项目Editor.md，感谢Editor.md的作者，本程序使用了一些来自互联网的免费，开源作品及其资源，其版权归其作者所有。本软件是一个免费软件，感谢大家的支持和使用。
+简单的易语言写的markdown编辑器，Markdown NOTEPAD pro使用了著名的开源项目Editor.md，感谢Editor.md的作者，本程序使用了一些来自互联网的免费，开源作品及其资源，其版权归其作者所有。本软件是一个免费软件，感谢大家的支持和使用。欢迎fork/star
  **版本** 
 Editor.md v1.5.0
  **本计算机程序受国际公约的保护，禁止未经授权擅自作为个人商业用途，或转售他人。** 
